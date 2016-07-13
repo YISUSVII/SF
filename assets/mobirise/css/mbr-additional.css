@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+#ext_menu-15 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-15.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-15 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-15 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box3-6 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #67cc1d;
+}
+#msg-box3-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-6 .mbr-article {
+  text-align: center;
+}
+#msg-box3-6 .mbr-article UL {
+  font-family: 'Roboto', sans-serif;
+  color: #ffffff;
+}
+#msg-box3-6 .mbr-article P {
+  color: #ffffff;
+}
+#msg-box3-6 .mbr-article H1 {
+  text-align: center;
+  color: #67cc1d;
+}
+#msg-box3-6 .mbr-article H2 {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box2-7 .mbr-header .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box2-7 .mbr-article {
+  color: #252525;
+}
+#testimonials1-8 .mbr-section__header {
+  color: #ffffff;
+  font-size: 30px;
+}
+#testimonials1-8 .mbr-reviews__text P {
+  text-align: left;
+}
+#testimonials1-8 .mbr-reviews__author-name {
+  color: #ffffff;
+}
+#social-buttons2-11 .mbr-header__text {
+  color: #ffffff;
+}
