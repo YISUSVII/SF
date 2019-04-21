@@ -61,3 +61,14 @@
 	background-size: 150px 150px;
 	background-repeat: no-repeat;
 	}
+
+.circular7 {
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(../images/adan.jpg) ;
+	background-size: 150px 150px;
+	background-repeat: no-repeat;
+	}
